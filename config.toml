@@ -13,7 +13,7 @@ title = "rougon"
 baseName = "players"
 mediatype ="application/json"
 [outputFormats.redirect]
-mediatype = "text/netlify"
+
 baseName = "_redirects"
 [taxonomies]
   sport = "sports"
