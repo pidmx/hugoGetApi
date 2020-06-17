@@ -9,9 +9,9 @@ title = "rougon"
   section = ["json"]
   taxonomy = ["json", "players"]
 
-[mediaTypes."text/netlify"]
-suffix = ""
-delimiter = ""
+#[mediaTypes."text/netlify"]
+#suffix = ""
+#delimiter = ""
 
 [outputFormats.players]
 baseName = "players"
