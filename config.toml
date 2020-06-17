@@ -1,5 +1,5 @@
 baseURL = "/"
-languageCode = "en-us"
+languageCode = "es-mx"
 title = "rougon"
 
 [outputs]
