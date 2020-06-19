@@ -1,0 +1,52 @@
+---
+label: Guardia
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: number
+  name: vigilantes
+  label: vigilantes
+- type: number
+  name: intendentes
+  label: intendentes
+- type: number
+  name: cajeros
+  label: cajeros
+- type: number
+  name: recepcionista
+  label: recepcionista
+- type: number
+  name: mantenimiento
+  label: mantenimiento
+- type: text
+  name: archivo
+  label: archivo
+- type: textarea
+  name: recorridos
+  label: recorridos
+- type: text
+  name: vigilancia
+  label: vigilancia
+- type: textarea
+  name: intendencia
+  label: intendencia
+- type: text
+  name: entregas
+  label: entregas
+- type: text
+  name: pernoctas
+  label: pernoctas
+- type: text
+  name: vandalismo
+  label: vandalismo
+- type: text
+  name: solicitudes
+  label: solicitudes
+- type: text
+  name: observaciones
+  label: observaciones
