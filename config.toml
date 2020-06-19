@@ -3,11 +3,11 @@ languageCode = "es-mx"
 title = "aa"
 
 [outputs]
-  page = ["json","players","HTML"]
+  page = ["json","players"]
   home = ["json", "redirect"]
   teams = ["json"]
   section = ["json"]
-  taxonomy = ["json", "players","HTML"]
+  taxonomy = ["json", "players"]
 
 [outputFormats.players]
 baseName = "players"
