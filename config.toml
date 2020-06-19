@@ -1,16 +1,21 @@
 baseURL = "/"
 languageCode = "es-mx"
-title = "rougon"
+title = "aa"
 
 [outputs]
-  page = ["json","players"]
+  page = ["json","players","guardias"]
   home = ["json", "redirect"]
   teams = ["json"]
   section = ["json"]
-  taxonomy = ["json", "players"]
+  taxonomy = ["json", "players", "guardias"]
 
 [outputFormats.players]
 baseName = "players"
+mediatype ="application/json"
+[outputFormats.redirect]
+
+[outputFormats.guardias]
+baseName = "guardias"
 mediatype ="application/json"
 [outputFormats.redirect]
 
