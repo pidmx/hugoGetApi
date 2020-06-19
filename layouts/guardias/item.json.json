@@ -2,7 +2,6 @@
     "title": "{{ .Title }}",
     "date": "{{ .Date }}",
     "permalink": "{{ .Permalink }}",
-    "guardia": "{{ .Params.date }}",
     "vigilantes": "{{ .Params.vigilantes }}",
     "intendentes": "{{ .Params.intendentes }}",
     "cajeros": "{{ .Params.cajeros }}",
