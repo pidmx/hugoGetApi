@@ -17,7 +17,6 @@ mediatype ="application/json"
 [outputFormats.guardias]
 baseName = "guardias"
 mediatype ="application/json"
-[outputFormats.redirect]
 
 baseName = "_redirects"
 [taxonomies]
