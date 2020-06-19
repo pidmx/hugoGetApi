@@ -1,5 +1,21 @@
 {
     "title": "{{ .Title }}",
+    "date": "{{ .Date }}",
+    "permalink": "{{ .Permalink }}",
     "guardia": "{{ .Params.date }}",
-    "permalink": "{{ .Permalink }}"
+    "vigilantes": "{{ .Params.vigilantes }}",
+    "intendentes": "{{ .Params.intendentes }}",
+    "cajeros": "{{ .Params.cajeros }}",
+    "recepcionista": "{{ .Params.recepcionista }}",
+    "mantenimiento": "{{ .Params.mantenimiento }}",
+    "archivo": "{{ .Params.archivo }}",
+    "recorridos": "{{ .Params.recorridos }}",
+    "vigilancia": "{{ .Params.vigilancia }}",
+    "intendencia": "{{ .Params.intendencia }}",
+    "entregas": "{{ .Params.entregas }}",
+    "pernoctas": "{{ .Params.pernoctas }}",
+    "vandalismo": "{{ .Params.vandalismo }}",
+    "solicitudes": "{{ .Params.solicitudes }}",
+    "observaciones": "{{ .Params.observaciones }}"
+    
 }
