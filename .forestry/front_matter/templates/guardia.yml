@@ -5,6 +5,8 @@ fields:
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: datetime
   name: date
   label: date
@@ -23,9 +25,16 @@ fields:
 - type: number
   name: mantenimiento
   label: mantenimiento
-- type: text
-  name: archivo
+- name: archivo
+  type: number
   label: archivo
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 - type: textarea
   name: recorridos
   label: recorridos
