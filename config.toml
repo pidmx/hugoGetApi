@@ -7,7 +7,7 @@ title = "aa"
   home = ["json", "redirect"]
   teams = ["json"]
   section = ["json"]
-  taxonomy = ["json", "players",HTML]
+  taxonomy = ["json", "players","HTML"]
 
 [outputFormats.players]
 baseName = "players"
