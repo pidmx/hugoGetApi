@@ -14,10 +14,6 @@ baseName = "players"
 mediatype ="application/json"
 [outputFormats.redirect]
 
-[outputFormats.guardias]
-baseName = "guardias"
-mediatype ="application/json"
-
 baseName = "_redirects"
 [taxonomies]
   sport = "sports"
