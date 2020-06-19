@@ -1,0 +1,5 @@
+{
+    "title": "{{ .Title }}",
+    "guardia": "{{ .Params.date }}",
+    "permalink": "{{ .Permalink }}"
+}
