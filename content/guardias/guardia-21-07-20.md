@@ -2,7 +2,6 @@
 archivo = 0
 cajeros = 1
 date = 2020-07-22T01:00:00Z
-draft = true
 entregas = "Se entregan toallas de papel interdobladas en los servicios."
 intendencia = "Intendencia realizan sanitización correspondiente de acuerdo a los protocolos establecidos para COVID-19, retiran ropa y desechos y se realiza limpieza de áreas, pasillos y servicios de manera apropiada, sin reportar incidencias."
 intendentes = 7
